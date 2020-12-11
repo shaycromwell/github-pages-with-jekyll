@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hi I'm Shay. I am here to talk to you about how amazing discord is!
