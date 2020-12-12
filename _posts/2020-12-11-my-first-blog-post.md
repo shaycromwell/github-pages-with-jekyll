@@ -1,5 +1,5 @@
 ---
-title: Features of Discord
+title: "Features of Discord"
 date: 2020-12-11
 ---
 
